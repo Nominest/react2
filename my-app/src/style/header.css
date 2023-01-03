@@ -1,0 +1,51 @@
+header ul {
+  display: flex;
+  gap: 25px;
+  list-style-type: none;
+  padding: 10px;
+  justify-content: center;
+  margin: auto;
+  font-size: medium;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(82, 82, 82);
+}
+a:hover {
+  background-color: rgb(97, 97, 97);
+  height: 50px;
+  color: aliceblue;
+  border-radius: 10%;
+}
+
+header {
+  background-color: rgb(192, 192, 192);
+}
+
+header {
+  display: flex;
+  justify-content: center;
+  color: black;
+  gap: 10px;
+  padding: 10px;
+}
+
+input {
+  width: 500px;
+  border: none;
+}
+
+#login {
+  background-color: rgb(225, 141, 7);
+  border: none;
+  border-radius: 10%;
+  color: aliceblue;
+}
+#sign {
+  background-color: rgb(240, 120, 8);
+  border: none;
+  border-radius: 10%;
+  color: aliceblue;
+}
