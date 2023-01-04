@@ -1,7 +1,7 @@
 import "../style/footer.css";
 export default function Footer() {
   return (
-    <footer>
+    <footer className="footer-l">
       <div>
         <img src="./minilogo.png" alt="" srcset="" width={50} height={50} />
       </div>

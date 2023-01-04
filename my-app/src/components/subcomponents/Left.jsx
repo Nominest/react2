@@ -7,7 +7,7 @@ export default function Left() {
         <b>Home</b>
       </p>
       <p>Public</p>
-      <ul>
+      <p>    <ul>
         <li>
           <a href="">Questions</a>
         </li>
@@ -20,7 +20,8 @@ export default function Left() {
         <li>
           <a href="">Companies</a>
         </li>
-      </ul>
+      </ul></p>
+  
     </div>
   );
 }

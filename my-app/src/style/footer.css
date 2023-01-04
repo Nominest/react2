@@ -3,8 +3,10 @@ footer {
   display: flex;
   margin: 10px;
   padding: 20px;
-  justify-content: space-around;
+  justify-content: space-between;
+  padding-left: 80px;
 }
+
 
 .foot-main {
   text-align: start;
