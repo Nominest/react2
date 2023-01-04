@@ -1,0 +1,14 @@
+.sub-right {
+  width: 20%;
+  margin-right: 40px;
+  text-align: start;
+}
+
+.sticky-note {
+  background-color: rgb(241, 222, 154);
+}
+
+.sticky-note h4 {
+  background-color: rgb(233, 207, 112);
+  padding: 4px;
+}

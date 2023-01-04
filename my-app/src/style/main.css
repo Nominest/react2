@@ -1,4 +1,5 @@
 .main {
   color: rgb(99, 103, 106);
-  margin: 200px;
+  justify-content: space-between;
+  display: flex;
 }

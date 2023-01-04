@@ -1,0 +1,9 @@
+.sub-left {
+  width: 20%;
+}
+.sub-left ul {
+  margin-left: 20px;
+  text-align: left;
+  text-decoration: none;
+  list-style-type: none;
+}
